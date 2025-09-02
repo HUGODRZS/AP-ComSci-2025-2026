@@ -1,3 +1,83 @@
+P2
+Think about things in life that are constants and things that are variables. Use the list below as a starting point:
+Where you were born  #constant
+Where you live  #variable
+How old you are #variable
+Your favorite movie  #variable
+How many inches are in a foot   #constant
+Who was the first President of the United States  #constant
+
+
+P4
+ score = 5
+score = score + score
+
+P5
+score = score + 2
+score += 2
+score += 4
+
+let word1 = "Compound"
+let word2 = "assignment"
+let word3 = "is"
+let word4 = "useful"
+let space = " "
+
+var statement = ""
+statement += word1
+statement += space
+statement += word2
+statement += space
+statement += word3
+statement += space
+statement += word4
+
+P9
+let friendBeverageChoice = "tea"
+findCoffeeGrinder()
+findCoffeeBeans()
+driveHome()
+setUpCoffeeGrinder()
+grindBeans()
+makeFriendDrinkCoffee()
+
+P10
+// Scores for each target
+let scoreForGreen = 5
+let scoreForRed = 10
+let scoreForGold = 20
+
+// Player scores
+var scoreForGary = 0
+var scoreForRob = 0
+
+// Game events here
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForRob
+scoreForGary
+
+P12
+var shoppingList = ""
+shoppingList += eggs + newLine
+shoppingList += milk + newLine
+shoppingList += cheese + newLine
+shoppingList += bread + newLine
+shoppingList += rice + newLine
 
 
 p13
