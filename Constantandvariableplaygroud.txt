@@ -1,0 +1,20 @@
+
+
+p13
+var totalScore = 501
+var roundScore = 0
+roundScore += 20
+roundScore += 15
+roundScore += 10
+totalScore -= roundScore
+roundScore = 0
+roundScore += 30
+roundScore += 25
+roundScore += 5
+totalScore -= roundScore
+roundScore = 
+roundScore += 50
+roundScore += 20
+roundScore += 15
+totalScore -= roundScore
+roundScore = 0
